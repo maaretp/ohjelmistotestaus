@@ -17,29 +17,29 @@ Minulla ei ole sisäpiirin tietoa VR:n silloisen testauksen ja korjauksen tasost
 
 Aloitetaan VR:n etusivulta, jonka vasemmasta laidasta löytyy junamatkan varaaminen. Testaajana lähden tutustumaan uuteen sovellukseen perustilanteella, jollaiseksi valitsen matkavarauksen Helsingistä Tampereelle kahden päivän kuluttua siten että olen perillä klo 12. Menoajankohta on sidottu sovittuun tapaamiseen, mutta palata voin hyvinkin joustavasti. Pääsivulla pääsen syöttämään lähtöpäivän, ja huomaan lähtöpäivän syötettyäni ruksin, että saankin kätevästi samalla varattua meno-paluulipun.
 
-![Hae kotimaan matkaa 2012](images/image1.jpg)
+![Hae kotimaan matkaa 2012](image1.jpg)
 
 Teen ensimmäisen havaintoni mahdollisesta puutteesta. Verkkokauppa tarjoaa minulle oletuksena tätä päivää paluulle, vaikka olen  päättänyt lähtöni olevan kahden päivän päästä. Havaintoni liittyy käyttäjän varauksen tekemisen helppouteen, ja vaikka vaihe käyttäjälle tuntuukin turhalta, täytän paluumatkan samalle illalle mahdollisimman myöhäiseen ajankohtaan. Kuittaan painaen Hae-painiketta ja pääsen hakutulossivulle.
 
-![Hakutuloksia 2012](images/image1.jpg)
+![Hakutuloksia 2012](image1.jpg)
 
 Huomaan suhteessa tavoitteeseeni, että luonnollisestikin etusivulla antamani aika tulkitaan lähtöaikana Helsingistä - toinen kirjattava havainto. Haluan kuitenkin pitäytyä taustoituksessani että minua kiinnostaa nimenomaan saapumisaika ja hetken ruutua tarkasteltuani huomaan että ainoa selkeä tapa siirtää ajankohtaa haluamallani tavalla on siirtyä edellisiin lähtöihin. Edellinen sivu -painike kuulostaa siltä että, siitä pääsen vain takaisin aloituspisteeseen. Painan kuitenkin sitä, toivoen että löydän jostakin monipuolisemman hakusivun.
 
-![Paluu hakuun 2012](images/image3.jpg)
+![Paluu hakuun 2012](image3.jpg)
 
 Odotetusta poiketen en päädy takaisin edelliselle sivulleni, vaan monipuolisempaan hakuun. Merkitsen kolmannen havaintoni kuitenkin todeten, että edelleen voin epäjohdonmukaisuuksista huolimatta jatkaa haluamani tilanteen läpikäyntiä. Huomaan ilahtuneena, että pääsen tästä näytöstä valitsemaan lähtöaika vs. saapumisaika, joka on testitilanteeni kantava teema. Ohimennen kiinnitän katseeni myös siihen, että päivämäärät ovat laatikoissaan aivan alareunassa, kun taas kohteet aikalailla keskitettynä - neljäs huomio. Vaihdan alasvetovalikosta aikavalinnalle määritteen saapumisaika, ja kuittaan Jatka-painikkeesta.
 
-![Osta matka 2012](images/image4.jpg)
+![Osta matka 2012](image4.jpg)
 
 Tarkastelen hakutuloksia, ja huomaan niiden olevan edelleen siten että valitsemani aikaa ei tulkita saapumisaikana, vaan lähtöaikana. Kirjaan viidennen huomioni, joka selkeimmin toimii toisin kuin sovelluksen kuuluisi.
 
-![Aikataulut 2012](images/image5.jpg)
+![Aikataulut 2012](image5.jpg)
 
 Kirjaan myöhemmin testattavien asioideni listalle tehtävän hakusivulla olleista vaihtoehdoista aikataulun varauksen vs. matkan ostamisen vs. sarjalipulla matkustavan paikkavarauksen erillisyydestä testauskohteena sekä laajennetun haun mahdollisuudesta testauskohteena. Kirjaan omaksi tehtäväkseen myös aikataulujen esittelysivulla näytettyjen toiminnallisuuksien läpikäynnin, erityisesti tarkemmat tiedot kunkin matkavaihtoehdon osalta ja matkustusajankohdan vaihtamisen.
 
 Juuri ennen kuin olen valmis julistamaan testaukseni tältä osin päättyneeksi, vilkaisen vielä taustalla ollutta konsoli-ikkunaa.
 
-![Konsoli-ikkuna 2012](images/image6.jpg)
+![Konsoli-ikkuna 2012](image6.jpg)
 
 Totean konsoli-ikkunassa olevan varoituksia ja virheitä sivusta, jotka eivät normaalikäyttäjän silmin näy, mutta joiden osalta testauskursseilla opetetaan hyväksymistestaustakin tekeviä, että ne voivat paljastaa tarpeettomia asioita sisäiseen rakenteeseen liittyen ja olla uhka tietoturvamielessä. Kirjaan näistä tiedoista vielä kuudennen havaintoni.
 
