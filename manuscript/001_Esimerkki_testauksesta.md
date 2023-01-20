@@ -23,7 +23,6 @@ Teen ensimmäisen havaintoni mahdollisesta puutteesta. Verkkokauppa tarjoaa minu
 
 ![Hakutuloksia 2012](images/image1.jpg)
 
-
 Huomaan suhteessa tavoitteeseeni, että luonnollisestikin etusivulla antamani aika tulkitaan lähtöaikana Helsingistä - toinen kirjattava havainto. Haluan kuitenkin pitäytyä taustoituksessani että minua kiinnostaa nimenomaan saapumisaika ja hetken ruutua tarkasteltuani huomaan että ainoa selkeä tapa siirtää ajankohtaa haluamallani tavalla on siirtyä edellisiin lähtöihin. Edellinen sivu -painike kuulostaa siltä että, siitä pääsen vain takaisin aloituspisteeseen. Painan kuitenkin sitä, toivoen että löydän jostakin monipuolisemman hakusivun.
 
 ![Paluu hakuun 2012](images/image3.jpg)
