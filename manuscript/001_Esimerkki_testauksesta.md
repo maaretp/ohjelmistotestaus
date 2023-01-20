@@ -17,29 +17,30 @@ Minulla ei ole sisäpiirin tietoa VR:n silloisen testauksen ja korjauksen tasost
 
 Aloitetaan VR:n etusivulta, jonka vasemmasta laidasta löytyy junamatkan varaaminen. Testaajana lähden tutustumaan uuteen sovellukseen perustilanteella, jollaiseksi valitsen matkavarauksen Helsingistä Tampereelle kahden päivän kuluttua siten että olen perillä klo 12. Menoajankohta on sidottu sovittuun tapaamiseen, mutta palata voin hyvinkin joustavasti. Pääsivulla pääsen syöttämään lähtöpäivän, ja huomaan lähtöpäivän syötettyäni ruksin, että saankin kätevästi samalla varattua meno-paluulipun.
 
-![Hae kotimaan matkaa 2012](images/image1.png)
+![Hae kotimaan matkaa 2012](images/image1.jpg)
 
 Teen ensimmäisen havaintoni mahdollisesta puutteesta. Verkkokauppa tarjoaa minulle oletuksena tätä päivää paluulle, vaikka olen  päättänyt lähtöni olevan kahden päivän päästä. Havaintoni liittyy käyttäjän varauksen tekemisen helppouteen, ja vaikka vaihe käyttäjälle tuntuukin turhalta, täytän paluumatkan samalle illalle mahdollisimman myöhäiseen ajankohtaan. Kuittaan painaen Hae-painiketta ja pääsen hakutulossivulle.
 
-![Hakutuloksia 2012](images/image2.png)
+![Hakutuloksia 2012](images/image1.jpg)
+
 
 Huomaan suhteessa tavoitteeseeni, että luonnollisestikin etusivulla antamani aika tulkitaan lähtöaikana Helsingistä - toinen kirjattava havainto. Haluan kuitenkin pitäytyä taustoituksessani että minua kiinnostaa nimenomaan saapumisaika ja hetken ruutua tarkasteltuani huomaan että ainoa selkeä tapa siirtää ajankohtaa haluamallani tavalla on siirtyä edellisiin lähtöihin. Edellinen sivu -painike kuulostaa siltä että, siitä pääsen vain takaisin aloituspisteeseen. Painan kuitenkin sitä, toivoen että löydän jostakin monipuolisemman hakusivun.
 
-![Paluu hakuun 2012](images/image3.png)
+![Paluu hakuun 2012](images/image3.jpg)
 
 Odotetusta poiketen en päädy takaisin edelliselle sivulleni, vaan monipuolisempaan hakuun. Merkitsen kolmannen havaintoni kuitenkin todeten, että edelleen voin epäjohdonmukaisuuksista huolimatta jatkaa haluamani tilanteen läpikäyntiä. Huomaan ilahtuneena, että pääsen tästä näytöstä valitsemaan lähtöaika vs. saapumisaika, joka on testitilanteeni kantava teema. Ohimennen kiinnitän katseeni myös siihen, että päivämäärät ovat laatikoissaan aivan alareunassa, kun taas kohteet aikalailla keskitettynä - neljäs huomio. Vaihdan alasvetovalikosta aikavalinnalle määritteen saapumisaika, ja kuittaan Jatka-painikkeesta.
 
-![Osta matka 2012](images/image4.png)
+![Osta matka 2012](images/image4.jpg)
 
 Tarkastelen hakutuloksia, ja huomaan niiden olevan edelleen siten että valitsemani aikaa ei tulkita saapumisaikana, vaan lähtöaikana. Kirjaan viidennen huomioni, joka selkeimmin toimii toisin kuin sovelluksen kuuluisi.
 
-![Aikataulut 2012](images/image5.png)
+![Aikataulut 2012](images/image5.jpg)
 
 Kirjaan myöhemmin testattavien asioideni listalle tehtävän hakusivulla olleista vaihtoehdoista aikataulun varauksen vs. matkan ostamisen vs. sarjalipulla matkustavan paikkavarauksen erillisyydestä testauskohteena sekä laajennetun haun mahdollisuudesta testauskohteena. Kirjaan omaksi tehtäväkseen myös aikataulujen esittelysivulla näytettyjen toiminnallisuuksien läpikäynnin, erityisesti tarkemmat tiedot kunkin matkavaihtoehdon osalta ja matkustusajankohdan vaihtamisen.
 
 Juuri ennen kuin olen valmis julistamaan testaukseni tältä osin päättyneeksi, vilkaisen vielä taustalla ollutta konsoli-ikkunaa.
 
-![Konsoli-ikkuna 2012](images/image6.png)
+![Konsoli-ikkuna 2012](images/image6.jpg)
 
 Totean konsoli-ikkunassa olevan varoituksia ja virheitä sivusta, jotka eivät normaalikäyttäjän silmin näy, mutta joiden osalta testauskursseilla opetetaan hyväksymistestaustakin tekeviä, että ne voivat paljastaa tarpeettomia asioita sisäiseen rakenteeseen liittyen ja olla uhka tietoturvamielessä. Kirjaan näistä tiedoista vielä kuudennen havaintoni.
 
@@ -50,6 +51,7 @@ Lopetan testaukseni todeten, että viiden minuutin testaukseen huomioita kirjate
  * * *
 
 Valitsemani testaustilanne havainnollistaa testauksen perustaitoja:
+
 * on kyettävä tunnistamaan ongelmia (oraakkelit)
 * on kyettävä pitämään kirjaa testauksen tavoitteesta (tarkoitus)
 * on kyettävä arvioimaan etenemistä suhteessa tarvoiteltuun (kattavuus)
@@ -60,11 +62,13 @@ Valitsemani testaustilanne havainnollistaa testauksen perustaitoja:
 Projektissa toimiessa, on lisäksi kyettävä jättämään materiaalia joka huolehtii testauksen toistamisesta muutoksen myötä (testitapaukset). Oma käsitykseni nykyaikaisen testauksen osalta on että se osa testitapauksista, joka kannattaa kirjoittaa ylös kannattaa kirjoittaa ylos ohjelmoituna testinä.
 
 Kuten omassa työssäni koitan korostaa:
+
 * Meillä on 1250 testiä, joiden ajaminen kestää 7 minuuttia.
 * Ajamme ne keskimäärin 20 kertaa päivässä, eli 25 000 testiä päivässä.
 * Näiden testien tekemä testaus on 10% siitä testauksesta mitä teemme. Muu testaus kasvattaa ja täydentää näitä testejä.
 
 Tai toisessa projektissa:
+
 * Meillä on 5000 muistiin kirjoitettua testitapausta, jotka eivät ole ohjelmoituja testejä.
 * Jos ne lukee nopeasti läpi, töitä on 11 työpäivän verran pelkässä lukemisessa.
 * Ei niitä kannata toistaa - tuotannossa olevaan sovellukseen tehdään pieniä hallittuja muutoksia
@@ -73,4 +77,3 @@ Tai toisessa projektissa:
 * * *
 
 Kappaleessa käsitelty esimerkki on viiden minuutin testaus yhdelle perustilanteelle. Tuotannon erilaisten tilanteiden pikakelaus suhteessa mahdollisiin vaikutuksiin (riskit) vaatii enemmän kuin yhden perustilanteen.
-
