@@ -75,4 +75,4 @@ Tai toisessa projektissa:
 
 * * *
 
-Kappaleessa käsitelty esimerkki on viiden minuutin testaus yhdelle perustilanteelle. Tuotannon erilaisten tilanteiden pikakelaus suhteessa mahdollisiin vaikutuksiin (riskit) vaatii enemmän kuin yhden perustilanteen.
+Kappaleessa käsitelty esimerkki on viiden - tai viidenkymmennen - minuutin testaus yhdelle perustilanteelle. Tuotannon erilaisten tilanteiden pikakelaus suhteessa mahdollisiin vaikutuksiin (riskit) vaatii enemmän kuin yhden perustilanteen.
