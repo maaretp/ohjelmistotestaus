@@ -6,7 +6,7 @@ Minulle testaus on ohjelmistokehityksen painotus, jossa yhdistyvät monipuolises
 
 Kirjoitin puolikkaan testauskirjan 'Ohjelmistotestaus', jonka viimeiseksi sovituksi julkaisuvuodeksi kustantajan kanssa tuli vuosi 2012. Julkaisu peruuntui rimakauhun myötä - testaus tuntui loputtomalta tutkimusaiheelta. Kirjoihin ja kansiin tuntui kovin lopulliselta.
 
-Löysin alkuperäisen käsikirjoituksen alkuni ja aloin järjestelemään sitä modernin rimakauhun välttämisen mekanismein LeanPub-kirjaksi. LeanPub kirja valmistuu kappale kappaleelta, ja kutsuu lukijat mukaan prosessiin.
+Löysin alkuperäisen käsikirjoituksen alkuni ja aloin järjestelemään sitä modernin rimakauhun välttämisen mekanismein LeanPub-kirjaksi. LeanPub kirja valmistuu kappale kappaleelta, ja kutsuu lukijat mukaan prosessiin. Nimekkeen olen varannut vuonna 2015 ja siksi saamme nyt nauttia osoitteesta [https://leanpub.com/ohjelmistotestaus](https://leanpub.com/ohjelmistotestaus).
 
 Jokainen LeanPubin viesti joka kertoo lukijan päättäneen maksaa kirjasta jotain on konkreettinen muistutus siihen että lisäämäni materiaalit ovat jollekulle tarpeen. Tämä kirja valmistuu.
 
